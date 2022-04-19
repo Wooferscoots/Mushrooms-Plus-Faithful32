@@ -14,3 +14,11 @@ Futureazoo            - Original Pack Creator
 Pythagoras_314, Aerod - Nether Mushrooms Texture
 
 HARAG0N_MC, Alexsor   - Overworld Mushrooms Texture
+
+# Photos
+
+![Overworld Mushrooms](https://i.imgur.com/opMfwsX.jpg)
+
+![Crimson Fungus](https://i.imgur.com/douk5eo.jpg)
+
+![Warped Fungus](https://i.imgur.com/ZZRKUZ2.jpg)
